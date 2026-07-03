@@ -1,2 +1,1 @@
-# Stored-Procedures
-Stored  Procedures
+# Stored Procedures
